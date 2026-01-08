@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Please get to know me here!
+## Please get to know me through the code tab!
 <!--
 **ProgressiveOverlearn/ProgressiveOverlearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
